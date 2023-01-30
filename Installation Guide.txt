@@ -1,0 +1,24 @@
+1. Ctrl+shift click on all Capstone file from part 1 to part 9 the zip file and right-click 
+
+2. Select extract to "2.Capstone" to unzip the file
+
+3. Select and Open MovieDb and click movieDb folder and run the it in Microsoft Visual Studio Code
+
+
+
+In Visual Studio Code
+
+1.Click on Terminal -> Select new Terminal -> Make sure that your folder path shows \MovieDb\movieDb
+
+2. Install the npm package by type out the command below:
+
+-npm install React-bootstrap
+-npm install Axios
+-npm install React-bootstrap-carousel
+-npm install React-rating-starts-component
+-npm install React-router-dom
+-npm install React-player
+
+3. Once Install the package above type 'npm start' in the terminal 
+
+4. the program will run by then
